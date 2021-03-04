@@ -1,0 +1,9 @@
+@ARTICLE{9366901,
+  author={Q. {Zhou} and Z. {Qu} and S. {Guo} and B. {Luo} and J. {Guo} and Z. {Xu} and R. {Akerkar}},
+  journal={IEEE Internet of Things Journal}, 
+  title={On-device Learning Systems for Edge Intelligence: A Software and Hardware Synergy Perspective}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JIOT.2021.3063147}}
